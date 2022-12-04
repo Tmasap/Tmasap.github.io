@@ -1,0 +1,70 @@
+
+	h2{
+		color: darkblue;
+		
+		
+	}
+	
+	p{
+		color: darkgreen;
+		font-style: italic;
+		
+	}
+	
+	h3{
+		color: turquoise;
+		
+		
+	}
+
+	h1{
+		color: darkblue;
+	}
+	
+	#bluep{
+		color: black;
+	}
+	body{
+		background-color: darkorange;
+	}
+	#d1,#d2{
+		position: static;
+	}
+	#d3{
+		position: sticky;
+	}
+	img{
+		position: relative;
+	}
+
+	li {
+  display: inline;
+}
+a {
+  display: block;
+}
+div {
+  display: inline;
+}
+
+#surp{
+	color: olivedrab;
+}
+.bluep{
+	color: azure;
+}
+
+
+ 
+ input[type=submit]{
+ 	background: #0066A2;
+	color: lightgreen;
+	height: 25px;
+	width: 75px;
+	font: bold15px sans-serif;
+	
+ }
+body{
+	margin: 50px;
+	padding: 50px;
+}
